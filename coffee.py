@@ -1,6 +1,6 @@
 #"Statement of requirements"
-#"Functional requirements"
-#The system accepts the intergers 50, 20, 10 and 5 because those numbers were specified in the code as accepted coins.
+#"Functional requirements:The system accepts the intergers 50, 20, 10 and 5 because those numbers were 
+# specified in the code as accepted coins.
 def main():
     amount_due = 75
     accepted_coins = [50, 20, 10, 5]
